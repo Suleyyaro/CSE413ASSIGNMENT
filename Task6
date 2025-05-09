@@ -1,0 +1,7 @@
+fun main() {  
+    val names = arrayOf("sule", "dady", "fati", "abdul", "shoes")  
+    
+    for (name in names) {  
+        println("Hello, $name")  
+    }  
+}
