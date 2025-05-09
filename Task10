@@ -1,0 +1,5 @@
+fun main() {  
+    val multiply: (Int, Int) -> Int = { a, b -> a * b }  
+    val result = multiply(5, 6)  
+    println("5 * 6 = $result")  
+}
